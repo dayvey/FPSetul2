@@ -1,0 +1,15 @@
+D:\Facultate\Fundamente\HOMEWORK\Tema 2\10\bin\Debug\net6.0\10.exe
+D:\Facultate\Fundamente\HOMEWORK\Tema 2\10\bin\Debug\net6.0\10.deps.json
+D:\Facultate\Fundamente\HOMEWORK\Tema 2\10\bin\Debug\net6.0\10.runtimeconfig.json
+D:\Facultate\Fundamente\HOMEWORK\Tema 2\10\bin\Debug\net6.0\10.dll
+D:\Facultate\Fundamente\HOMEWORK\Tema 2\10\bin\Debug\net6.0\10.pdb
+D:\Facultate\Fundamente\HOMEWORK\Tema 2\10\obj\Debug\net6.0\10.csproj.AssemblyReference.cache
+D:\Facultate\Fundamente\HOMEWORK\Tema 2\10\obj\Debug\net6.0\10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Fundamente\HOMEWORK\Tema 2\10\obj\Debug\net6.0\10.AssemblyInfoInputs.cache
+D:\Facultate\Fundamente\HOMEWORK\Tema 2\10\obj\Debug\net6.0\10.AssemblyInfo.cs
+D:\Facultate\Fundamente\HOMEWORK\Tema 2\10\obj\Debug\net6.0\10.csproj.CoreCompileInputs.cache
+D:\Facultate\Fundamente\HOMEWORK\Tema 2\10\obj\Debug\net6.0\10.dll
+D:\Facultate\Fundamente\HOMEWORK\Tema 2\10\obj\Debug\net6.0\refint\10.dll
+D:\Facultate\Fundamente\HOMEWORK\Tema 2\10\obj\Debug\net6.0\10.pdb
+D:\Facultate\Fundamente\HOMEWORK\Tema 2\10\obj\Debug\net6.0\10.genruntimeconfig.cache
+D:\Facultate\Fundamente\HOMEWORK\Tema 2\10\obj\Debug\net6.0\ref\10.dll
